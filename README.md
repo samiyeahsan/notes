@@ -31,9 +31,9 @@ THEN that note appears in the right-hand column
 
 The following images show the web application's appearance and functionality:
 
-![preview image](https://github.com/samiyeahsan/note-taker/blob/main/Assets/11-express-homework-demo-01.png)
+![preview image](https://github.com/samiyeahsan/notes/blob/main/Assets/screenshot.png)
 
-![preview image](https://github.com/samiyeahsan/note-taker/blob/main/Assets/11-express-homework-demo-02.png)
+!
 
 
-[Deployed Link](https://samiyeahsan.github.io/note-taker/)
+[Deployed Link](https://samiyeahsan.github.io/notes/)
